@@ -9,7 +9,7 @@
         <div class="cell medium-6">
           <div class="profile-card">
             <RouterLink href="/" class="pc-img">
-              <img alt="workboard homepage" src="@/assets/img/layout/strike-s.svg" />
+              <img alt="workboard homepage" src="/assets/img/layout/strike-s.svg" />
             </RouterLink>
             <div class="pc-content">
               <h1 class="pc-title">stuart's workboard</h1>
