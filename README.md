@@ -26,4 +26,4 @@ A Vue 3 project as a personal homepage/workboard to handle day-to-day tasks and 
 
 - [Vue 3](https://vuejs.org/)
 - [Vue Router](https://router.vuejs.org/)
-- [Vite](https://vitejs.dev/) (for fast development)
+- [Vite](https://vitejs.dev/)
