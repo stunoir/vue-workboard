@@ -10,7 +10,7 @@
       <div class="grid-x grid-padding-x">
         <div class="cell medium-6">
           <div class="profile-card">
-            <RouterLink href="/" class="pc-img">
+            <RouterLink to="/" class="pc-img">
               <img alt="workboard homepage" :src="logoImg" />
             </RouterLink>
             <div class="pc-content">
